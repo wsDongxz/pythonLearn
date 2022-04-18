@@ -14,3 +14,11 @@ list2 = list()
 
 print(type(list1))
 print(type(list2))
+
+
+# 定义一个字典变量
+
+dict1 = {}
+dict2 = dict()
+print(type(dict1))
+print(type(dict2))
